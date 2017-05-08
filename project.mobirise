@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "new site Lisa 3e jaar NL",
-    "currentPage": "page3.html",
+    "name": "new site Lisa 3e jaar ENG",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-v12.png",
     "noImageResize": "true",
@@ -36,7 +36,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "Copyright (c) 2017 Lisa Roggeband \nLisa Roggeband, Roggeband \nsculpture \ncermics \ndreams",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -132,20 +132,36 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">KERAMIEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WERK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://lisarog.github.io/site10/\" aria-expanded=\"false\">ENG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLASS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CERAMICS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/LisaRoggebandSculptures/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///var/folders/1r/mk9ltqyd57q4x4vnqhk4v5y00000gn/T/Mobirise-m3J7oI/20170508_135812/index.html\" aria-expanded=\"false\">NL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1c",
+          "_name": "header5",
+          "_anchor": "header5-0",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/website-lisa-9-.jpg",
-            "bgColor": "#a07e49",
+            "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -161,15 +177,7 @@
           },
           "title": "Lisa Roggeband",
           "text": "Artist",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
           "_tags": [
@@ -197,9 +205,9 @@
             "showText": false,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content1-o\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content1-o\" data-toolbar=\"-mbrBtnMove\">more info</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "Student keramiek &amp; glas"
+          "title": "Student ceramics &amp; glass"
         },
         {
           "_tags": [
@@ -212,7 +220,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Ik studeer keramiek en glas kunst aan het LUCA school of arts in Gent. Mijn liefde voor sculpturen zijn begonnen in het laatste jaar van het middelbaar. Ik probeer mijn liefde voor sculpturen te combineren met mijn &nbsp;kennis en passie voor keramiek en glas.&nbsp;</p><p><br></p><p>\" Ik voel me meer als een sculptur maar met de vaardigheden en kennis als keramiste\"</p><p><br>Thema's zoals identiteit, dromen en leed komen terug in mijn werk. Ik ben geinspireerd door de medemens &nbsp;en mijn persoonlijke ervaringen. Dromen speelt een belangrijke rol in mijn werk.</p><p><br></p><p>Ik ben een heel directe werker die grote en compliceerde werken opbouwt.</p><p></p>"
+          "text": "<p>&nbsp;Im a student ceramic and glass at LUCA school of art in Ghent. My love for sculptures began in the last year of high school where I studied art. &nbsp;I try to combine my love for sculptures with my knowledge and passion for Ceramics and glass.</p><p><br></p><p>'' I feel more like a sculptor, but with the skills and materials like ceramics and glass “</p><p><br></p><p>You recognize themes like identity, dreams and sorrow in my works. I'm inspired by my fellow creators and my personal experience and life. Dreams play a a major part in my works.</p><p><br></p><p>I work quick and try to apply directness and speed to build complicated large works.</p><p></p>"
         },
         {
           "_tags": [
@@ -244,18 +252,18 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORMULIER",
+          "title": "CONTACT FORM",
           "subtitle": "",
           "form": {
             "action": "lisa.roggeband@gmail.com",
             "alerts": {
-              "success": "Dank u "
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Naam*"
+                "customTitle": "Name*"
               },
               "email": {
                 "title": "Email",
@@ -265,15 +273,15 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "GSM"
+                "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Bericht"
+                "customTitle": "Message"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER MIJ</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_tags": [
@@ -298,7 +306,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "DEEL DEZE PAGINA"
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
@@ -325,7 +333,7 @@
     "page1.html": {
       "settings": {
         "title": "GLASS",
-        "meta_descr": "GLASS , GLASBLOWN , MOUTHBLOW , HOT GLAS , COLD GLAS, Copyright (c) 2017 Lisa Roggeband"
+        "meta_descr": "GLASS , GLASBLOWN , MOUTHBLOW , HOT GLAS , COLD GLAS"
       },
       "components": [
         {
@@ -416,7 +424,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">KERAMIEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WERK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">ENG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLASS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CERAMICS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/LisaRoggebandSculptures/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///var/folders/1r/mk9ltqyd57q4x4vnqhk4v5y00000gn/T/Mobirise-m3J7oI/20170508_135812/index.html\" aria-expanded=\"false\">NL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -449,9 +457,9 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "GLAS",
+          "title": "GLASS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#slider3-q\" data-toolbar=\"-mbrBtnMove\">meer info<br></a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#slider3-q\" data-toolbar=\"-mbrBtnMove\">more info<br></a>"
         },
         {
           "_tags": [
@@ -543,7 +551,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "DEEL DEZE PAGINA!&nbsp;"
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
@@ -570,7 +578,7 @@
     "page2.html": {
       "settings": {
         "title": "CERAMICS",
-        "meta_descr": "CERAMICS, SCULPTURES, CLAY, GLAZE\nCopyright (c) 2017 Lisa Roggeband"
+        "meta_descr": "CERAMICS, SCULPTURES, CLAY, GLAZE"
       },
       "components": [
         {
@@ -661,7 +669,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">KERAMIEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WERK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">ENG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLASS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CERAMICS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/LisaRoggebandSculptures/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///var/folders/1r/mk9ltqyd57q4x4vnqhk4v5y00000gn/T/Mobirise-m3J7oI/20170508_135812/index.html\" aria-expanded=\"false\">NL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -694,9 +702,9 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "KERAMIEK",
+          "title": "CERAMICS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page2.html#msg-box3-r\" data-toolbar=\"-mbrBtnMove\">meer info</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page2.html#msg-box3-r\" data-toolbar=\"-mbrBtnMove\">more info</a> "
         },
         {
           "_inherit": "msg-box8",
@@ -739,8 +747,8 @@
             "showButton": true
           },
           "title": "Lisa Roggeband",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Keramiek is een eeuwenoude techniek die makkelijk te vervormen is. &nbsp;Door de plastisteit van het materiaal heb ik een directe aanpak tot de klei, daardoor is het gemakkelijk om emoties en gevoelens uit te drukken. Ik wil mij onderscheiden van typische keramisten door te expirimenteren met ongewone schalen en groottes.</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">MEER WERK</a>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ceramics is an age-old</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;natural medium which is easy to transform. &nbsp;With my hands I have a direct approach to the clay, i</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">t's perfect to express emotions and inner feelings. I want to distinguish myself from typical ceramists by experimenting with extraordinary sizes and shapes.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">more work<br></a>"
         },
         {
           "_inherit": "gallery1",
@@ -777,8 +785,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1272-2000x1325-800x530.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1272-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-lisa-6-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-lisa-6.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -787,8 +795,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1280-2000x1325-800x530.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1280-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-lisa-7-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-lisa-7.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -828,7 +836,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "DEEL DEZE PAGINA!&nbsp;"
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
@@ -855,7 +863,7 @@
     "page3.html": {
       "settings": {
         "title": "WORKS",
-        "meta_descr": "FRAGMENTATION, WORK , SCULPTURES\nCopyright (c) 2017 Lisa Roggeband\n"
+        "meta_descr": "FRAGMENTATION, WORK , SCULPTURES"
       },
       "components": [
         {
@@ -946,7 +954,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">KERAMIEK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WERK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">ENG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GLASS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CERAMICS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/LisaRoggebandSculptures/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///var/folders/1r/mk9ltqyd57q4x4vnqhk4v5y00000gn/T/Mobirise-m3J7oI/20170508_135812/index.html\" aria-expanded=\"false\">NL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -958,7 +966,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-lisa-8.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-dsc1260-2000x1325.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1014,7 +1022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/website-lisa-9.jpg",
+              "src": "@PROJECT_PATH@/assets/images/thumb-dsc1259-1400x2111.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1032,7 +1040,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Zelfportret -&nbsp;</i>2016<br>Keramiek en hout</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>Selfportret -&nbsp;</i>2016<br>Ceramic and wood</span>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },

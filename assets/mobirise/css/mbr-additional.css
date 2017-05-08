@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -478,10 +479,16 @@ h6,
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-1c .mbr-section-lead {
+#header5-0 .mbr-section-title {
+  color: #ffffff;
   text-align: left;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 60px;
+}
+#header5-0 .mbr-section-lead {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Noto Sans', sans-serif;
 }
 #form1-2 .form-control-label {
   color: #232323;
